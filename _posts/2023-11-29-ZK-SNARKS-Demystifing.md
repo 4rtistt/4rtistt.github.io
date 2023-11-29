@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "ZK-SNARKS Demystifing"
+title: "Introduction to Zero Knowledge Proofs"
 categories: ZKP learning
-permalink: zk-snarks-demystifing
+permalink: introduction-to-zkp
 author: f4tu
-meta: "Learning ZK-SNARKS Demystifing"
+meta: "Introduction to Zero Knowledge Proofs"
 tags: ZKP Cryptography
 ---
 
-### How to verify any computation?
+Get basic knowledge about Zero Knowledge Proofs which are a way to prove a statement is true without revealing anything beyond the truthiness of the statement. 
+
+### Introduction
+
+As descripted below, ZKP are a way to prove a statement is true without revealing anything beyond the truthiness of the statement.
