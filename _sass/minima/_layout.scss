@@ -203,7 +203,6 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1 0 auto;
-  text-align: justify;
 }
 
 .page-heading {
@@ -252,6 +251,10 @@
   @media screen and (min-width: $on-large) {
     @include relative-font-size(2.625);
   }
+}
+
+.post-content p {
+  text-align: justify;
 }
 
 .post-content {
