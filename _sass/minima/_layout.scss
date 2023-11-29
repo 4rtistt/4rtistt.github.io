@@ -203,6 +203,7 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1 0 auto;
+  text-align: justify;
 }
 
 .page-heading {
@@ -218,6 +219,7 @@
   list-style: none;
 
   > li {
+    text-align: justify;
     margin-bottom: $spacing-unit;
   }
 }
@@ -255,9 +257,6 @@
 .post-content {
   margin-bottom: $spacing-unit;
 
-  p {
-    text-align: justify;
-  }
 
   h1, h2, h3 { margin-top: $spacing-unit * 2 }
   h4, h5, h6 { margin-top: $spacing-unit }
