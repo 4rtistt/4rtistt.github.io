@@ -10,7 +10,7 @@ tags: template
 
 This is the notes about markdown style.
 
-### Math
+#### Math
 `Preview:`
 
 When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are:
@@ -27,4 +27,15 @@ When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are:
     $$x_1 = {-b + \sqrt{b^2-4ac} \over 2a}$$
     $$x_2 = {-b - \sqrt{b^2-4ac} \over 2a} \notag$$
 </div>
+```
+
+```mermaid
+graph TB;
+    A[Do you have a problem in your life?]
+    B[Then don't worry]
+    C[Can you do something about it?]
+    A--no-->B;
+    A--yes-->C;
+    C--no-->B;
+    C--yes-->B;
 ```
