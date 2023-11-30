@@ -13,3 +13,4 @@ Get basic knowledge about zero-knowledge proofs, which are a way to prove a stat
 ### Introduction
 
 As described below, ZKPs are a way to prove a statement is true without revealing anything beyond the truthiness of the statement.
+{:.success}
